@@ -1,0 +1,18 @@
+.bg-hue {
+  background-color: #0d0d0d;
+  color: white;
+  }
+
+.footer{
+  background-color: #ff6666;
+  color: white;
+  height: 100px;
+}
+.error ul {
+   font-size12px;
+   color: black;
+   border: 1px solid tomato;
+}
+ .error ul>li {
+   text-align: left;
+ }
